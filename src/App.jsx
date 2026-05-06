@@ -4,7 +4,7 @@ function App() {
   
   return (
     <>
-      <h1> this is my TourIQ website</h1>
+      <h1> this is my TourIQ website new</h1>
     </>
   )
 }
